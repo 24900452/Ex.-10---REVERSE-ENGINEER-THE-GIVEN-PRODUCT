@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Screenshot (24)](https://github.com/user-attachments/assets/3a6c2da1-3e86-46ba-b1cd-f5c53765dff8)
 
 
-### Name:
-### Register Number:
+### Name: Jothi Ganesh P
+### Register Number:24900452
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

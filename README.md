@@ -33,7 +33,8 @@
 ## Input:
 
 ### Output:
-![Screenshot (24)](https://github.com/user-attachments/assets/3a6c2da1-3e86-46ba-b1cd-f5c53765dff8)
+![Screenshot (26)](https://github.com/user-attachments/assets/26d7b52f-5b10-40ce-9927-edbe6e972faa)
+
 
 
 ### Name: Jothi Ganesh P
